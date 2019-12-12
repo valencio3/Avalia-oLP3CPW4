@@ -1,0 +1,43 @@
+@import '../../Cores';
+@import '../../fonts/Fontes';
+
+.conteiner {
+    padding: 0px 10px;
+    
+#item {
+    display: block;
+    margin: 5px 5px 5px 5px;
+}
+
+#quantidade {
+    width: 10%;
+    height: 20px;
+    margin: 5px 5px 5px 5px;
+
+}
+
+#botao {
+    width: 15%;
+   
+            padding: 15px;
+            background-color: $cor-menu;
+            color: white;
+            border-radius: 7px;
+            font-size: 100%;
+            font-family: $fonte-principal;
+}
+
+select {
+    padding: 5px 5px;
+    margin: 5px 5px 5px 5px;
+}
+
+
+
+
+  
+
+}
+
+
+
